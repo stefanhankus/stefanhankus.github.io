@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="death-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="13.89"
+     inkscape:cx="24.010079"
+     inkscape:cy="24.010079"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 27.922726,12.527736 H 40.99847 v 7.033507 H 27.922726 V 48 H 20.077277 V 19.561243 H 7.0015304 V 12.527736 H 20.077277 v -12.5277361 h 7.845449 z"
+       id="text2"
+       style="font-weight:bold;font-size:21.3333px;line-height:1.5;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:-5px;text-orientation:upright;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.112304;paint-order:markers fill stroke"
+       aria-label="✝"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>
