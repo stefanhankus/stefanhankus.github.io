@@ -59,5 +59,7 @@ Made with 🤨 by <a href="https://github.com/konradmb" class="link">Konrad Boro
 					}
 				});
 			})();
-			umami.identify({ name: 'Bob', email: 'bob@aol.com' });
+			document.addEventListener("DOMContentLoaded", (event) => {
+				umami.identify({ UA: navigator.userAgent });
+			});			
 		</script> </body> </html>
